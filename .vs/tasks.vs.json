@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-UnitTest1",
+      "appliesTo": "IIG.PasswordHashingUtils-master/Lab4/UnitTest1.cs",
+      "type": "launch"
+    }
+  ]
+}
